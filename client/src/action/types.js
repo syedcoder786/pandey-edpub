@@ -1,0 +1,17 @@
+export const FETCH_VEDIOS='FETCH_VEDIOS';
+export const GET_VEDIO='GET_VEDIO';
+export const ERROR_VEDIO='ERROR_VEDIO';
+export const VEDIOS_LOADING='VEDIOS_LOADING';
+export const VEDIOS_LOADED='VEDIOS_LOADED';
+export const ADD_RECORD='ADD_RECORD';
+// export const AUTH_ERROR='AUTH_ERROR';
+// export const LOGIN_FAIL='LOGIN_FAIL';
+// export const LOGIN_SUCCESS='LOGIN_SUCCESS';
+// export const LOGOUT_SUCCESS='LOGOUT_SUCCESS';
+// export const REGESTER_SUCCESS='REGESTER_SUCCESS';
+// export const REGESTER_FAIL='REGESTER_FAIL';
+// export const GET_ERRORS='GET_ERRORS';
+// export const CLEAR_ERRORS='CLEAR_ERRORS';
+// export const POST_LOADING='VEDIO_LOADING';
+// export const POST_LOADED='POST_LOADED';
+// export const ADD_POST='ADD_POST';

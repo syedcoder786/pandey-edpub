@@ -1,0 +1,54 @@
+.containerpl{
+    width:90%;
+    margin:auto;
+    overflow:hidden;
+}
+
+/* Sidebar */
+#player{
+    /* float:right; */
+    /* padding: 10px; */
+    /* width:30%; */
+    /* margin-top:10px; */
+    /* background-color: rgb(16, 16, 46); */
+    /* color: white; */
+    float: left;
+    margin-top:20px;
+}
+#sidebarpl{
+    text-align: center;
+    float:right;
+    padding: 10px;
+    width:30%;
+    margin-top:20px;
+    background-color: rgb(61, 56, 56);
+    color: white;
+    border-radius: 4px;
+}
+#discp{
+     margin-top: -50px;
+ }
+
+.blw{
+    width:90%;
+    margin:auto;
+    overflow:hidden;
+}
+
+
+/* Media Queries */
+@media(max-width: 768px){
+    #player{
+      float:none;
+      text-align: center;
+      width: 100%;
+    }
+    #sidebarpl{
+      float:none;
+      text-align:center;
+      width:95%;
+    }
+}
+
+
+
